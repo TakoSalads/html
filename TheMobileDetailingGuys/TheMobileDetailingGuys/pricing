@@ -1,0 +1,238 @@
+
+
+<html>
+	<head>
+		<title>The Mobile Detail Guys</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script>
+		  var siteWidth = 1280;
+		  var scale = screen.width / siteWidth;
+		  document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=' + siteWidth + ', initial-scale=' + scale + '');
+		</script>
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!--Dropdown Menu-->
+		
+
+		<header>
+			<div class="header" id="myHeader">
+			  <a href="home" class="logo"><img src="Website/images/Real logo.png" alt=""></a>
+			  <div class="header-right">
+        		<a href="contact-us">+1 613 981-4768</a>
+				<a class="active" href="home">Home</a>
+				<a href="pricing">Pricing</a>
+				<a href="about-us">About</a>
+				<a href="contact-us">Book Now</a>
+		
+			  </div>
+			 
+			</div>
+		  </header>
+		  <style>
+			
+
+.header {
+  overflow: hidden;
+  background-color: #0b1622;
+  padding: 10px 10px;
+  
+}
+
+.header img {
+  width: 120px;
+}
+
+.header a {
+  float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 30px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 !important;
+}
+
+
+.header-right {
+  float: right;
+  display: flex;
+  align-items: center;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.header
+{
+    /* ... */
+    z-index: 99;
+}
+
+		  </style>
+
+                                                                <!--Header P2-->
+
+
+          <body>
+            <div class="body">
+                <element class="body">
+            <h1>Ottawa's Best Mobile Car Detailing</h1>
+            <h3>Mobile Car Detailing Starting at $130</h3>
+            <p><a href="contact-us" class="button big wide smooth-scroll-middle">Book Now</a></p>
+
+</element>
+          </body>
+<style>
+    .body {
+    padding: 45px 45px;
+    text-align: center;
+}
+
+
+</style>
+          <body2>
+            		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<html>
+					<head>
+						<meta name="viewport" content="width=device-width, initial-scale=1.0">
+						<title>Pricing Table</title> 
+						<link rel="stylesheet" href="assets/css/pricingpage.css">
+					</head>
+					<body>
+						
+						<div class="container">
+							<h2>Choose your plan</h2>
+							<h1>10% OFF FOR 2 OR MORE VEHICLES</h1>
+							<div class="price-row">
+								<div class="price-col">
+									<p>Interior Detail</p>
+									<h3>$150</h3>
+									<ul>
+										<li>Vacuuming Entire Car Including Trunk</li>
+										<li>Steam Sanitizing & Disinfecting</li>
+										<li>Steam Cleaning ventilation system </li>
+										<li>Shampoo carpets & Floor Mats</li>
+										<li>Windowing Cleaned From Interior</li>
+										<li>Steam Clean & Condition Fabric & Leather Seats</li>
+										<li>Steam Clean & Condition Steering Wheel, Dashboard, & Console</li>
+										<li>Full Extraction of Dirt & Grime from Carpets & Floor Mats</li>
+									</ul>
+									<a href="contact-us" class="button02">Book Now</a>
+								</div>
+								<div class="price-col">
+									<p>Complete Detailing Package</p>
+									<h3>$180</h3>
+									<ul>
+										<li>Vacuuming Entire Car Including Trunk</li>
+										<li>Steam Sanitizing & Disinfecting</li>
+										<li>Steam Cleaning ventilation system </li>
+										<li>Shampoo carpets & Floor Mats</li>
+										<li>Windowing Cleaned From Interior & Exterior</li>
+										<li>Steam Clean & Condition Fabric & Leather Seats</li>
+										<li>Steam Clean & Condition Steering Wheel, Dashboard, & Console</li>
+										<li>Full Extraction of Dirt & Grime from Carpets & Floor Mats</li>
+										<li>Rims & Wheels Degrease & Break Dust Removal</li>
+										<li>2 Bucket-Wash & Rinse</li>
+										<li>Tire Dressing & Shine</li>
+									</ul>
+									<p><a href="contact-us" class="button02">Book Now</a></p>
+			
+								
+								</div>
+								<div class="price-col">
+									<p>Exterior Detail</p>
+									<h3>from $300</h3>
+									<ul>
+										<li>Rims & Wheels Degrease & Break Dust Removal</li>
+										<li>2 Bucket-Wash & Rinse</li>
+										<li>Tire Dressing & Shine</li>
+										<li>Hand Dry using only Microfiber towels</li>
+										<li>Remove Scratches, Tar, Dead Bugs, and Tree Leaves with Claybar</li>
+										<li>Decontamination with Claybar for Whole Vehicle</li>
+										<li>Wax Application</li>
+										<li>Polishing to Make Car Look New</li>
+									</ul>
+									<a href="contact-us" class="button02">Book Now</a>
+								</div>
+
+							</div>
+						</div>
+
+						<!-- Why Choose Us!-->
+					<br>
+					<section class="content style1 align-center">
+						<div class="body">
+							
+							<br><h2>Why Choose Us?</h2>
+								<p>Introducing our revolutionary car revitalization service that brings together the best of the old and the new. We take your old car and transform it back to its glory days, making it look and feel like new again.
+								Forget the hassle of dropping off your car at a shop and waiting for hours. Our convenient service allows you to relax at home while our expert technicians work their magic right from your driveway. This saves you time and money, as you can carry on with your day while we handle the restoration process.
+								Join us on this journey of transformation, where old cars meet new and innovation meets responsibility. Together, we can make a difference while ensuring your car receives the care it deserves. Experience the future of car revitalization with us today.</p>
+							</div>
+							</div>
+					</section>
+
+									<!-- Five -->
+									<section class="wrapper style1 align-center">
+										<div class="inner">
+											<h2>Customer Reviews</h2>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum.</p>
+										</div>
+				
+
+										<footer class="wrapper style1 align-center">
+											<div class="inner">
+											  <ul class="icons">
+												<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+												<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+												<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+												<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+											  </ul>
+											  <p style="color:white">+1 (613) 981-4768</p>
+											</div>
+										  </footer>
+										  <style>
+									  
+											
+											footer {
+											  overflow: hidden;
+											  background-color: #0b1622;
+											   padding: 30px 30px;
+											  }
+										  </style>
+									  
+									  </div>
+
+			</div>
+				  		<!-- Scripts -->
+						  <script src="assets/js/jquery.min.js"></script>
+						  <script src="assets/js/jquery.scrollex.min.js"></script>
+						  <script src="assets/js/jquery.scrolly.min.js"></script>
+						  <script src="assets/js/browser.min.js"></script>
+						  <script src="assets/js/breakpoints.min.js"></script>
+						  <script src="assets/js/util.js"></script>
+						  <script src="assets/js/main.js"></script>
+						  <script src="assets/js/header.js"></script>
+						
+					</body>
+				</html>
+
+
+          </body2>

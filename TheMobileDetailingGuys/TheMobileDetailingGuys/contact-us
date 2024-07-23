@@ -1,0 +1,229 @@
+
+<html>
+	<head>
+		<title>The Mobile Detail Guys</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!--Dropdown Menu-->
+		
+
+		<header>
+			<div class="header" id="myHeader">
+			  <a href="mobile-detailing-guys.html" class="logo"><img src="images/Real logo.png" alt=""></a>
+			  <div class="header-right">
+        <a href="contact-us.html">+1 613 981-4768</a>
+				<a class="active" href="mobile-detailing-guys.html">Home</a>
+				<a href="complete-auto-detailing-ottawa-gatineau.html">Pricing</a>
+				<a href="About-Us.html">About</a>
+				<a href="contact-us.html">Book Now</a>
+		
+			  </div>
+			 
+			</div>
+		  </header>
+		  <style>
+			
+
+.header {
+  overflow: hidden;
+  background-color: #0b1622;
+  padding: 10px 10px;
+  
+}
+
+.header img {
+  width: 120px;
+}
+
+.header a {
+  float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 30px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 !important;
+}
+
+
+.header-right {
+  float: right;
+  display: flex;
+  align-items: center;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.header
+{
+    /* ... */
+    z-index: 99;
+}
+
+		  </style>
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+        
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    
+  </head>
+  <body>
+
+    <div class="container mt-5">
+        <h1>Contact Us!</h1>
+        <body>
+          We would love to hear from you! Please fill out the form and we will get back to you as soon as possible!
+        </body>
+        <br>
+        <form class="row g-3" action="https://formsubmit.co/reginacarlos690@gmail.com" method="POST">
+
+          <input type="text" name="_honey" style="display:none">
+
+        <form class="row g-3">
+          <div class="col-md-6"><br>
+            <label for="firstName" class="form-label">First Name</label>
+            <input type="text" class="form-control" id="firstName" required>
+          </div>
+          <div class="col-md-6"><br>
+            <label for="lastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" id="lastName" required>
+          </div>
+          <div class="col-md-8">
+            <label for="emailInfo" class="form-label">E-mail</label>
+            <input type="email" class="form-control" id="emailInfo" required>
+          </div>
+          <div class="col-md-4">
+            <label for="phoneNumber" class="form-label">Phone Number</label>
+            <input type="text" class="form-control" id="phoneNumber" placeholder="+1 (415) 867-5309">
+          </div>
+          <div class="col-md-6">
+            <label for="adress-info" class="form-label">Adress</label>
+            <input type="text" class="form-control" id="adress-info" required>
+          </div>
+          <div class="col-md-6">
+            <label for="What kind of service?">What Kind of Service?</label>
+            <select>
+              <option>Interior Detail</option>
+              <option>Exterior Detail</option>
+              <option>Complete Detailing Package</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label for="type-of-car" class="form-label">What Type of Vehicle</label>
+            <select>
+              <option value="SEDAN">Sedan</option>
+              <option value="SUV">SUV</option>
+              <option value="Mini-Van">Mini-Van</option>
+              <option value="Truck">Truck</option>
+            </select>
+            </div>
+            <div class="col-md-6">
+              <label for="how-many-vehicles" class="form-label">How Many Vehicles</label>
+              <select>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="more">More</option>
+              </select>
+            </div>
+            <label for="checkbox" class="form-label">Does your car have...</label><br>
+            <input type="checkbox" name="ExcessDirt" id="ExcessDirt">
+            <label for="ExcessDirt">Excess Dirt</label><br><br>
+            <input type="checkbox" name="PHOS" id="PHOS">
+            <label for="PHOS">Pet Hair on Seats</label><br><br>
+            <input type="checkbox" name="PHOC" id="PHOC">
+            <label for="PHOC">Pet Hair on Carpets</label><br><br>
+            <input type="checkbox" name="PHIT" id="PHIT">
+            <label for="PHIT">Pet hair in Trunk</label><br><br>
+              <input type="checkbox" name="LS" id="LS">
+              <label for="LS">Light Salt</label><br><br>
+              <input type="checkbox" name="HS" id="HS">
+              <label for="HS">Heavy Salt</label><br><br>
+              <input type="checkbox" name="LM" id="LM">
+              <label for="LM">Light Mud</label><br><br>
+              <input type="checkbox" name="HM" id="HM">
+              <label for="HM">Heavy Mud</label><br><br>
+              <input type="checkbox" name="NA" id="NA">
+              <label for="NA">None of The Above</label><br><br>
+          </div>
+          <div class="container mt-5">
+          <div class="col-md-4">
+            <label for="Any-car-images">Any Images of The Car</label><br>
+            <input type="file"
+            id="carimages" name="carimages">
+          </div>
+        </div>
+        <div class="container mt-5">
+          <div class="col-md-12">
+            <label for="comments" class="form-label">Anything else we should know?</label>
+            <textarea class="form-control" id="comments" rows="3" required></textarea><br>
+          </div>
+          <div class="col-md-12">
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+          <br>
+        </form>
+    </div>
+
+    <footer class="wrapper style1 align-center">
+      <div class="inner">
+        <ul class="icons">
+          <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+          <li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <p style="color:white">+1 (613) 981-4768</p>
+      </div>
+    </footer>
+    <style>
+
+      
+      footer {
+        overflow: hidden;
+        background-color: #0b1622;
+         padding: 30px 30px;
+        }
+    </style>
+
+</div>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    -->
+  </body>
+ 
+</html>
