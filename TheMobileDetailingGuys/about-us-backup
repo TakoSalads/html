@@ -1,0 +1,233 @@
+@ -0,0 +1,232 @@
+
+<html>
+	<head>
+		<title>The Mobile Detail Guys</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script>
+		  var siteWidth = 1280;
+		  var scale = screen.width / siteWidth;
+		  document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=' + siteWidth + ', initial-scale=' + scale + '');
+		</script>
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<!--Dropdown Menu-->
+		
+
+		<header>
+			<div class="header" id="myHeader">
+			  <a href="home" class="logo"><img src="Website/images/Real logo.png" alt=""></a>
+			  <div class="header-right">
+        		<a href="contact-us">+1 613 981-4768</a>
+				<a class="active" href="home">Home</a>
+				<a href="pricing">Pricing</a>
+				<a href="about-us">About</a>
+				<a href="contact-us">Book Now</a>
+		
+			  </div>
+			 
+			</div>
+		  </header>
+		  <style>
+			
+
+.header {
+  overflow: hidden;
+  background-color: #0b1622;
+  padding: 10px 10px;
+  
+}
+
+.header img {
+  width: 120px;
+}
+
+.header a {
+  float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 30px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 !important;
+}
+
+
+.header-right {
+  float: right;
+  display: flex;
+  align-items: center;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.header
+{
+    /* ... */
+    z-index: 99;
+}
+
+		  </style>
+
+                                                                <!--Header P2-->
+
+
+          <body>
+            <div class="body">
+                <element class="body">
+            <h1>Ottawa's Best Mobile Car Detailing</h1>
+            <h3>Mobile Car Detailing Starting at $130</h3>
+            <p><a href="contact-us" class="button big wide smooth-scroll-middle">Book Now</a></p>
+
+</element>
+          </body>
+<style>
+    .body {
+    padding: 45px 45px;
+    text-align: center;
+}
+
+
+</style>
+<body2>
+    <!-- Wrapper -->
+<div id="wrapper" class="divided">
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pricing Table</title> 
+        <link rel="stylesheet" href="assets/css/About-Us.css">
+    </head>
+    <body>
+
+        <div class="container">
+<h1>About Us at The Mobile Detailing Guys;</h1>
+
+
+<div class="img">
+  <align="right">
+  <img src="Website/images/IMG_7344.png">
+  </align>
+  
+
+<h2>Welcome to The Mobile Detailing Guys, Your Premier Choice for Mobile Detailing in Ottawa and Gatineau!</h2>
+
+
+    <p>At The Mobile Detailing Guys, we are dedicated to providing top-tier mobile detailing services in Ottawa and Gatineau. We understand the importance of maintaining the appearance and value of your vehicle, and that's why we are here to offer you the finest automotive care right at your doorstep.</p>
+    
+        <br>
+    <h2>Our Story:</h2>
+    <p>Founded by a team of passionate car enthusiasts, The Mobile Detailing Guys was born out of a shared love for automobiles and a commitment to delivering exceptional detailing services. With years of experience in the industry, our founders envisioned a service that would cater to the unique needs of vehicle owners in Ottawa and Gatineau.</p>
+    
+    <br>
+    <h2>Our Mission:</h2>
+    <p>At The Mobile Detailing Guys, our mission is simple - to bring the highest level of detailing expertise directly to you. We believe that convenience and quality should go hand in hand. Our team of highly skilled professionals is dedicated to ensuring that your vehicle receives the care and attention it deserves, all while you go about your day.</p>
+    
+    <br>
+    <h2>Why Choose Us?</h2>
+    
+    <p>Mobile Convenience: We come to you! Whether you're at home, work, or any other location in Ottawa or Gatineau, our fully equipped mobile units are at your service, saving you time and hassle.</p>
+    
+    <p>Experienced Team: Our team consists of certified detailing experts who are passionate about cars and take pride in their work. We treat your vehicle as if it were our own.</p>
+      
+    <p>Eco-Friendly Practices: We are committed to using environmentally friendly products and techniques to minimize our impact on the environment while providing excellent results.</p>
+      
+    <br>
+    <div class="img">
+      <align="right">
+      <img src="Website/images/IMG_7350.png">
+      </align>
+
+    <p>Customized Packages: We offer a range of detailing packages to suit your specific needs, from basic cleaning to full detailing and paint correction.</p>
+    
+    <p>Customer Satisfaction: Your satisfaction is our priority. We go the extra mile to ensure you are thrilled with the results and the service you receive.</p>
+    
+    <br>
+    <h2>Services We Offer:</h2>
+    
+    <p>Exterior Detailing</p>
+    <p>Interior Detailing</p>
+    <p>Paint Correction</p>
+    <p>Ceramic Coating</p>
+    <p>Upholstery Cleaning</p>
+    <p>Headlight Restoration</p>
+      <p>and more!</p>
+
+      
+    <br>
+    <div class="img">
+      <align="right">
+      <img src="Website/images/IMG_7351.png">
+      </align>
+      
+    <h2>Contact Us:</h2>
+    <p>Ready to give your vehicle the pampering it deserves? Contact us today to schedule an appointment. Our friendly team is always here to answer your questions and provide you with a personalized quote.</p>
+    <br>
+    <h2>Location:</h2>
+    <p>Ottawa, ON</p>
+    <p>Gatineau, QC</p>
+    <p>Phone: +1 (613) 981-4768</p>
+    <p>Email: </p><!-- Ask Tyler for Proper Email-->
+    
+    <br>
+    <h2>Follow Us:</h2>
+    <p>Stay connected with us on social media to see our latest projects, tips, and exclusive offers:</p>
+    <p>Facebook: [Your Facebook Page]</p>
+    <p>Instagram: [Your Instagram Page]</p>
+    <p>Thank you for considering The Mobile Detailing Guys for all your automotive detailing needs. We look forward to exceeding your expectations and giving your vehicle the attention it deserves. Your satisfaction drives us, and your vehicle's beauty is our passion.</p>
+</div>
+
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+      <div class="inner">
+      <ul class="icons">
+        <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+        <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+        <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+        <li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+        <li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+      <h3 style="color:white">+1 (613) 981-4768</h3>
+    </div>
+  </footer>
+    <style>
+      footer {
+        overflow: hidden;
+        background-color: #0b1622;
+        background-size: cover;
+        padding: 30px 30px;
+        }
+    </style>
+
+
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/header.js"></script>
+
+</body>
+</html>
