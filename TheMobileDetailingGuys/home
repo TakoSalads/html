@@ -196,10 +196,13 @@
 
 
 	
-						<!-- Gallery -->
+
+						<!--21/11/24 Update: caused issue, widget doesnt display on live website, commenting out until further devlopment-->
+   
+						<!-- Gallery -->     
 						<!-- request Tyler's instagram-->
 
-					<section class="content style1 align-center">
+<!--				<section class="content style1 align-center">
 						<div class="body">
 
 							<h2>Follow our instagram!</h2>
@@ -210,7 +213,10 @@
 
 						<script src="https://apps.elfsight.com/p/platform.js" defer></script>
 						<div class="elfsight-app-62dd5c07-555b-43c5-b36d-7fb0923a977e"></div>
-					</section>
+					</section> -->
+
+
+
 
 				<!-- Seven -->
 					<section class="wrapper style1 align-center">
