@@ -1,0 +1,35 @@
+.contact-page {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1000px;
+    margin: 0 auto;
+    gap: 2rem; /* Adds space between the form and text box */
+  }
+  
+  .contact-page > * {
+    flex: 1; /* Ensures both components take equal space unless overridden */
+  }
+  
+  .contact-info {
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-info h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  .contact-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-info ul li {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+  }
+  

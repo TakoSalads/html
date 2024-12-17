@@ -1,0 +1,52 @@
+/* Header CSS */
+
+.header {
+    overflow: hidden;
+    background-color: #08f;
+    padding: 10px 10px;
+    
+  }
+  
+  .header img {
+    width: 120px;
+  }
+  
+  .header a {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 30px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0 !important;
+  }
+  
+  
+  .header-right {
+    float: right;
+    display: flex;
+    align-items: center;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+  
+  .sticky + .content {
+    padding-top: 102px;
+  }
+  
+  .header
+  {
+      /* ... */
+      z-index: 99;
+  }
