@@ -1,23 +1,29 @@
 import React from "react";
-import HeroSection from "./components/HeroSection";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import ContactForm from "./components/ContactForm";
-import ContactPage from "./components/ContactPage";
+import HeroSection from "./components/frontspread/HeroSection";
+import Header from "./components/header/Header";
+import Footer from "./components/footer/Footer";
+import ContactPage from "./components/contact page/ContactPage";
+import Gallery from "./components/gallery/Gallery";
 
 function App() {
   return (
     <div>
       <Header />
+
       <main>
       <div className="App">
         <HeroSection />
       </div>
+
       <ContactPage />
+
+      <Gallery />
+
       </main>
+
       <Footer />
     </div>
-  );
+  );  
 }
 
 export default App;
