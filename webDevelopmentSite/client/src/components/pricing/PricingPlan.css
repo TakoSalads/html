@@ -1,0 +1,84 @@
+/* Pricing Page Container */
+.pricing-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  /* Individual Pricing Card */
+  .pricing-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .pricing-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Pricing Card Header */
+  .pricing-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .pricing-card .price {
+    font-size: 32px;
+    font-weight: bold;
+    color: #08f;
+    margin-bottom: 10px;
+  }
+  
+  .pricing-card .duration {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  /* Feature List */
+  .pricing-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .pricing-card ul li {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  /* Button */
+  .pricing-card button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #08f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .pricing-card button:hover {
+    background-color: #0077cc;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .pricing-card {
+      width: 90%;
+    }
+  }
+  
