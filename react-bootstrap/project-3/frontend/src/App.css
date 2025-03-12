@@ -12,3 +12,13 @@
   max-width: 400px;
   width: 100%;
 }
+
+
+
+/* Hero Section (full image)*/
+.bg-image {
+  background-image: url('images/CDPspotlight.JPG');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
