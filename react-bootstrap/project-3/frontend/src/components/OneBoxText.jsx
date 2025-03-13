@@ -15,7 +15,7 @@ const OneBoxText = () => {
               Experience first class service and Convenience of creating random projects! 
             </p>
             <p className='lead'>
-              he best projects start with projects, and as more projects are crafted the better the projects get
+              The best projects start with projects, and as more projects are crafted the better the projects get
             </p>
           </Col>
   

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Header from '../components/Header';
-import ContactUs from '../components/contactus';
+import ContactUs from '../components/ContactUs';
 import Footer from '../components/Footer';
 
 const BookNow = () => {

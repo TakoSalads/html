@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer className="bg-dark text-light py-3 mt-auto border-top">
+        <footer className="bg-secondary text-light py-3 mt-auto border-top">
             <div className='container text-center'>
                 <div className='row d-flex justify-content-center gap-2'>
                     {/* Branding */}
