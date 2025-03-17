@@ -1,0 +1,74 @@
+/* ContactForm.css */
+.contact-form-container {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    padding: 5rem 0;
+  }
+  
+  .contact-left-side {
+    color: white;
+    text-align: center;
+    padding: 3rem;
+  }
+  
+  .contact-left-side h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-left-side p {
+    font-size: 1.2rem;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .form-control-lg {
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid #ddd;
+    margin-bottom: 1.2rem;
+  }
+  
+  .btn-modern {
+    background-color: #2575fc;
+    color: white;
+    font-weight: bold;
+    border-radius: 50px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .btn-modern:hover {
+    background-color: #1a5bb8;
+    transform: translateY(-3px);
+  }
+  
+  .card-body {
+    padding: 2rem;
+  }
+  
+  .card-body h3 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .alert {
+    font-size: 1.1rem;
+    padding: 1.2rem;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  @media (max-width: 767px) {
+    .contact-left-side {
+      padding: 2rem;
+    }
+  
+    .card {
+      border-radius: 10px;
+    }
+  }
+  
